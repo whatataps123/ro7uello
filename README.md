@@ -1,4 +1,13 @@
-### Hi there 👋
+
+![Name](etc/name.svg)
+![Header](etc/header.svg)
+
+<div align="center">
+
+  <a href="http://www.chickenroad.org/">
+    <img src="etc/kirby-fighter.gif" width="300px">
+  </a>
+</div>
 
 <!--
 **ro7uello/ro7uello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
