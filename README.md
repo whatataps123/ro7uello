@@ -5,7 +5,7 @@
 <div align="center">
 
   <a href="http://www.chickenroad.org/">
-    <img src="etc/kirby-fighter.gif" width="300px">
+    <img src="etc/tenor.gif" width="300px">
   </a>
 </div>
 
